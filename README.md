@@ -1,11 +1,8 @@
 # OCRsensitive
 
 Установка easyocr в режиме использования GPU CUDA [1].
-
 Устанавливаем дистрибутив Anaconda Individual Edition [2].
-
 Создаем среду в Anaconda Prompt командой:
-
 conda create –name deeplearning
 (https://www.youtube.com/watch?v=2S1dgHpqCdk)
 Входим в созданную среду deeplearning командой:
